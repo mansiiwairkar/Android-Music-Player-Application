@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">AndroidCam</string>
+    <string name="action_settings">Settings</string>
+
+    //lines to be added are below
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="theme">
+        <item>System Default</item>
+        <item>Light</item>
+        <item>Dark</item>
+    </string-array>
+
+</resources>
