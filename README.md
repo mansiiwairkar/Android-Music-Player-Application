@@ -1,5 +1,5 @@
 # Android-Music-Player-Application
- Android music player is developed using Java in Android studio that provides great user experience for easy usage. It uses SQLite to store user's data.
+Android music player is developed using Java in Android studio that provides great user experience for easy usage. It uses SQLite to store user's data.
  
 It can access all media files within your phone and list the tracks for you. You have to register yourself first and then use the same credentials to login. The application will prompt you to access your storage, click on the allow button then the music player lists all the media files from your device. This application has custom controls to play, pause, skip, Songs/Audio as well as forward and go to previous Songs/Audios.
 
